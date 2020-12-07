@@ -1,0 +1,17 @@
+{
+  "name": "bloo-blaa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "rebuild": "electron-rebuild"
+  },
+  "devDependencies": {
+    "electron": "11.0.3",
+    "electron-rebuild": "^2.3.4"
+  },
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
